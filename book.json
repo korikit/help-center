@@ -1,0 +1,13 @@
+{
+  "title": "CEX Help Center",
+  "description": "CEX Exchange Help Center / CEX 交易平台帮助中心",
+  "plugins": ["search", "sharing", "fontsettings", "theme-default"],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": false,
+      "twitter": true,
+      "google": false,
+      "all": []
+    }
+  }
+}

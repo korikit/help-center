@@ -1,0 +1,14 @@
+# CEX 帮助中心
+
+欢迎来到 CEX 交易平台帮助中心。
+
+在这里您可以了解平台的相关信息、规则与政策。
+
+## 内容导航
+
+- [关于 CEX](about/README.md)
+- [风控规则](risk-control/README.md)
+- [免责声明](disclaimer/README.md)
+- [服务条款](terms-of-service/README.md)
+- [隐私政策](privacy-policy/README.md)
+- [声明](declarations/README.md)
