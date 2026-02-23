@@ -1,6 +1,6 @@
 {
-  "title": "CEX Help Center",
-  "description": "CEX Exchange Help Center / CEX 交易平台帮助中心",
+  "title": "Koriex Help Center",
+  "description": "Koriex Exchange Help Center / Koriex 交易平台帮助中心",
   "plugins": ["search", "sharing", "fontsettings", "theme-default"],
   "pluginsConfig": {
     "sharing": {
